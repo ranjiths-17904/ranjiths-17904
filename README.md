@@ -67,14 +67,4 @@
 
 <h3 align="center">🌟 Thanks for visiting! Have a great day! 🌟</h3>
 
-<style>
-  body {
-    background: url('https://www.transparenttextures.com/patterns/stardust.png');
-    animation: stars 10s linear infinite;
-  }
-
-  @keyframes stars {
-    from { background-position: 0 0; }
-    to { background-position: 100% 100%; }
-  }
-</style>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&" alt="ranjiths-17904" /></p>
