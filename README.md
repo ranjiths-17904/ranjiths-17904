@@ -1,87 +1,116 @@
-<!-- Stylish and Attractive GitHub Profile README -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ranjith's GitHub Profile</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(120deg, #1a2a6c, #b21f1f, #fdbb2d);
+      color: #fff;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
 
-<h1 align="center" style="font-size: 4rem; background: linear-gradient(90deg, #FF5733, #FFC300, #DAF7A6); -webkit-background-clip: text; color: transparent;">
-  Hi 👋, I'm Ranjith
-</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace; background: linear-gradient(90deg, #2ECC71, #1ABC9C); -webkit-background-clip: text; color: transparent;">
-  A Passionate Frontend Developer & UI/UX Designer
-</h3>
+    h1 {
+      font-size: 2.5rem;
+      margin-top: 20px;
+    }
 
----
+    h2 {
+      font-size: 1.8rem;
+      margin: 10px 0;
+    }
 
-<h3 align="center">🌟 About Me:</h3>
-<ul style="font-size: 1.2rem; line-height: 1.8;">
-  <li>🔭 Currently working on responsive websites and UI/UX designs.</li>
-  <li>🌱 Learning advanced frontend frameworks and backend integration.</li>
-  <li>🎨 Passionate about creating user-friendly designs with clean code.</li>
-  <li>📫 Reach me at: <a href="mailto:ranjithselvaraj04@gmail.com">ranjithselvaraj04@gmail.com</a></li>
-</ul>
+    .button {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      font-size: 1rem;
+      color: #fff;
+      text-decoration: none;
+      border: 2px solid #fff;
+      border-radius: 8px;
+      transition: all 0.3s;
+      cursor: pointer;
+    }
 
----
+    .button:hover {
+      background: rgba(255, 255, 255, 0.2);
+      transform: scale(1.05);
+    }
 
-<h3 align="center">🛠️ Skills & Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Version Control-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-</p>
+    .tools-section, .trophies-section {
+      margin-top: 20px;
+    }
 
----
+    .tool-icons img {
+      margin: 10px;
+      height: 50px;
+      transition: transform 0.2s;
+    }
 
-<h3 align="center">🚀 My Projects:</h3>
-<ul style="font-size: 1.2rem; line-height: 1.8;">
-  <li><a href="https://github.com/ranjiths-17904/pharmacy-website">Pharmacy Website</a>: Developed a responsive pharmacy website using HTML, CSS, and JavaScript.</li>
-  <li><a href="https://github.com/ranjiths-17904/laptop-showcase">Laptop Showcase Page</a>: Designed an aesthetically pleasing laptop showcase page using CSS Grid.</li>
-  <li><a href="https://github.com/ranjiths-17904/farmers-portal">Farmers Portal</a>: Created a user-friendly portal for farmers to access resources and market products.</li>
-</ul>
+    .tool-icons img:hover {
+      transform: scale(1.2);
+    }
 
----
+    footer {
+      margin-top: 30px;
+      font-size: 0.9rem;
+    }
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&theme=radical" alt="GitHub Streak" width="500" />
-</p>
+    @keyframes glow {
+      0%, 100% {
+        text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;
+      }
+      50% {
+        text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff;
+      }
+    }
 
----
+    h1 span {
+      animation: glow 2s infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="animate__animated animate__fadeInDown">
+    Welcome to <span>Ranjith's</span> GitHub Profile
+  </h1>
 
-<h3 align="center">📱 Responsive Design Showcase:</h3>
-<p align="center">
-  <img src="https://via.placeholder.com/400x300" alt="Mobile Preview" style="border-radius: 15px; margin: 10px;" />
-  <img src="https://via.placeholder.com/600x400" alt="Desktop Preview" style="border-radius: 15px; margin: 10px;" />
-</p>
+  <h2 class="animate__animated animate__zoomIn">A Passionate Frontend Developer & UI/UX Designer</h2>
 
----
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ranjiths-17904&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
 
-<h3 align="center">📬 Contact Me:</h3>
-<p align="center">
-  <a href="mailto:ranjithselvaraj04@gmail.com" style="text-decoration: none;">
-    <button style="padding: 15px 30px; background-color: #FF5733; border: none; border-radius: 5px; color: white; font-size: 1.2rem; cursor: pointer; transition: transform 0.2s;">
-      ✉️ Contact Me
-    </button>
-  </a>
-</p>
+  <div class="tools-section">
+    <h2 class="animate__animated animate__fadeInLeft">🛠️ Tools & Technologies</h2>
+    <div class="tool-icons animate__animated animate__fadeInUp">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+    </div>
+  </div>
 
----
+  <div class="trophies-section">
+    <h2 class="animate__animated animate__fadeInRight">🏆 GitHub Trophies</h2>
+    <p>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ranjiths-17904&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+      </a>
+    </p>
+  </div>
 
-<h3 align="center">✨ Achievements:</h3>
-<marquee behavior="scroll" direction="left" style="font-size: 1.2rem; color: #3498DB; font-family: Arial, sans-serif;">
-  🏆 Successfully completed an internship at Shadow Fox for UI/UX designing. 🎖️ Certified in "Mastering Figma: Beginner to Expert UI/UX Design." 📜 Completed Java and Python courses on Nativeva platform.
-</marquee>
+  <footer class="animate__animated animate__fadeInUp">
+    <p>Designed by <strong>Ranjith</strong> | © 2025 All rights reserved.</p>
+  </footer>
 
----
-
-<h3 align="center">🌐 Socials:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ranjithselvaraj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ranjith_04" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/ranjiths-17904" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+</body>
+</html>
