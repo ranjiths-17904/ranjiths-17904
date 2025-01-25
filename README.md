@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ranjith</h1>
-<h3 align="center">A Passionate Frontend Developer & UI/UX Designer</h3>
+<h1 align="center" style="font-size: 3rem; color: #FF5733;">Hi 👋, I'm Ranjith</h1>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #2ECC71;">A Passionate Frontend Developer & UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranjiths-17904&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,13 +12,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&width=500&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Lifelong+Learner+and+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF5733&center=true&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Building+Innovative+Web+Applications" alt="Typing Animation" />
 </p>
 
 - 🔭 I’m currently working on **Homeservice-App**
 - 🌱 I’m currently learning **React-Native, Python**
 - 👨‍💻 View my Portfolio [Here](https://react-portfolio-ranjiths.onrender.com/)
 - 📫 How to reach me **ranjithselvaraj04@gmail.com**
+
+<h3 align="left">Internship & Works:</h3>
+<ul style="font-size: 1.1rem; line-height: 1.6;">
+  <li>🌟 Interned at <strong>XYZ Solutions</strong>, contributing to developing dynamic web applications using React.js.</li>
+  <li>💻 Worked on an e-commerce website redesign to enhance user experience and interface.</li>
+  <li>🚀 Collaborated on a real-time chat application leveraging Node.js and WebSocket.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
