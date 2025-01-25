@@ -27,9 +27,9 @@
 
 <h3 align="left">Internship & Works:</h3>
 <ul style="font-size: 1.2rem; line-height: 1.8;">
-  <li>🌟 Interned at <strong>XYZ Solutions</strong>, contributing to developing dynamic web applications using React.js.</li>
-  <li>💻 Worked on an e-commerce website redesign to enhance user experience and interface.</li>
-  <li>🚀 Collaborated on a real-time chat application leveraging Node.js and WebSocket.</li>
+  <li>🌟 Interned at <strong>Rampex</strong>, contributing to developing dynamic web applications using React.js.</li>
+  <li>💻 Worked on an freelancher website redesign to enhance user experience and interface.</li>
+  <li>🚀 Interned at <strong>ShadowFox</strong>and<strong>CodSoft</strong>, contributing to designing.</li>
 </ul>
 
 <h3 align="left">Achievements:</h3>
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&" alt="ranjiths-17904" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=radical" alt="Top Languages" />
