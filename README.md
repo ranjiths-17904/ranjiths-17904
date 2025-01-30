@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&" alt="ranjiths-17904" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=radical" alt="Top Languages" />
