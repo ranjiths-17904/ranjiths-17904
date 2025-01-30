@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=#2193b0&center=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Building+Innovative+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=2193b0&center=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Building+Innovative+Web+Applications" alt="Typing Animation" />
 </p>
 
 - 🔭 I’m currently working on **Homeservice-App**
