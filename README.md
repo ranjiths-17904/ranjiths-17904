@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 4rem; color: #FF5733;">Hi 👋, I'm Ranjith</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #2ECC71; font-size: 2rem;">A Passionate Frontend Developer & UI/UX Designer</h3>
+<h3 align="center" style="font-family: 'sans-serif', monospace; color: #2ECC71; font-size: 2rem;">A Passionate Frontend Developer & UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranjiths-17904&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF5733&center=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Building+Innovative+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=#2193b0&center=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Building+Innovative+Web+Applications" alt="Typing Animation" />
 </p>
 
 - 🔭 I’m currently working on **Homeservice-App**
