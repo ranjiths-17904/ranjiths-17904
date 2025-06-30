@@ -1,73 +1,71 @@
-<h1 align="center" style="font-size: 4rem; color: #FF5733;">Hi 👋, I'm Ranjith</h1>
-<h3 align="center" style="font-family: 'sans-serif', monospace; color: #2ECC71; font-size: 2rem;">A Passionate Frontend Developer & UI/UX Designer</h3>
+<h1 align="center" style="font-size: 4rem; color: #FF5733;">Hi 👋, I'm <span style="color: #0077b6;">Ranjith</span></h1>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2ECC71; font-size: 1.8rem;">🚀 Frontend Developer | 🎨 UI/UX Designer | 💡 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranjiths-17904&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ranjiths-17904&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ranjiths-17904&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFF94C&center=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Passionate+about+React%2C+Tailwind+CSS;Building+Innovative+Web+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&width=900&lines=Crafting+Experiences+with+Code+and+Design;Turning+Ideas+into+Interactive+UI;React%2C+TailwindCSS+and+More..." alt="Typing Animation" />
 </p>
 
-- 🔭 I’m currently working on **Homeservice-App**
-- 🌱 I’m currently learning **React-Native, Python**
-- 👨‍💻 View my Portfolio [Here](https://react-portfolio-ranjiths.onrender.com/)
-- 📫 How to reach me **ranjithselvaraj04@gmail.com**
+<hr style="border: 1px solid #f39c12; width: 90%; margin: 30px auto;" />
 
-<h3 align="left">About Me:</h3>
-<p style="font-size: 1.2rem; line-height: 1.8;">
-  I am a frontend developer with a keen eye for aesthetics and usability. With a passion for creating seamless user interfaces and designing experiences that captivate, I specialize in React, Tailwind CSS, and UX design.
-</p>
-
-<h3 align="left">Internship & Works:</h3>
-<ul style="font-size: 1.2rem; line-height: 1.8;">
-  <li>🌟 Interned at <strong>Rampex</strong>, contributing to developing dynamic web applications using React.js.</li>
-  <li>💻 Worked on an freelancher website redesign to enhance user experience and interface.</li>
-  <li>🚀 Interned at <strong>ShadowFox</strong>and<strong>CodSoft</strong>, contributing to designing.</li>
+<h2 align="center">🛠️ What I’m Currently Working On</h2>
+<ul align="center" style="list-style-type: none; font-size: 1.2rem;">
+  <li>🔭 Homeservice App</li>
+  <li>🌱 Learning: React Native & Python</li>
+  <li>👨‍💻 Portfolio: <a href="https://react-portfolio-ranjiths.onrender.com/" target="_blank">Visit Here</a></li>
+  <li>📫 Email: ranjithselvaraj04@gmail.com</li>
 </ul>
 
-<h3 align="left">Achievements:</h3>
-<ul style="font-size: 1.2rem; line-height: 1.8;">
-  <li>🏆 Successfully completed an internship at Shadow Fox for UI/UX designing.</li>
-  <li>🎖️ Received certification for completing the "Mastering Figma: Beginner to Expert UI/UX Design" course.</li>
-  <li>📜 Completed the Java and Python courses on the Nativeva platform in native language.</li>
-  <li>✨ Contributed to a departmental event by helping develop the Kalam website for 2024.</li>
+<hr style="border: 1px solid #e91e63; width: 90%; margin: 30px auto;" />
+
+<h2 align="center">🧑‍💼 About Me</h2>
+<p align="center" style="max-width: 750px; margin: auto; font-size: 1.2rem; line-height: 1.8;">
+  I'm a frontend developer passionate about user-centric design. I build modern, performant web applications with React, Tailwind CSS, and intuitive UI/UX principles. My goal is to create seamless digital experiences that leave a lasting impression.
+</p>
+
+<hr style="border: 1px solid #9c27b0; width: 90%; margin: 30px auto;" />
+
+<h2 align="center">💼 Internship & Experience</h2>
+<ul style="font-size: 1.15rem; line-height: 1.8;">
+  <li>🌟 Intern - <strong>Rampex</strong>: Contributed React components and UI design.</li>
+  <li>🎯 Freelancer: Website redesigns focused on better UX.</li>
+  <li>🧪 Intern - <strong>ShadowFox</strong> & <strong>CodSoft</strong>: UI design projects.</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left gap-10">
-  <a href="https://linkedin.com/in/ranjith-s-435362277" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/ranjith.subha.3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/kindly__fellow_rs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<hr style="border: 1px solid #00b894; width: 90%; margin: 30px auto;" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" color="purple" style="margin: 15px;" /> </a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 15px;" /> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50" style="margin: 15px;" /> </a>
-</p>
+<h2 align="center">🏅 Achievements</h2>
+<ul style="font-size: 1.15rem; line-height: 1.8;">
+  <li>🏆 UI/UX Internship at ShadowFox</li>
+  <li>🎓 "Mastering Figma" Certified</li>
+  <li>👨‍💻 Completed Java & Python (Nativeva)</li>
+  <li>🌐 Helped design 2024 Kalam Department Website</li>
+</ul>
 
-<h3 align="left">GitHub Status:</h3>
+<hr style="border: 1px solid #1abc9c; width: 90%; margin: 30px auto;" />
+
+<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://linkedin.com/in/ranjith-s-435362277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/ranjith.subha.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/kindly__fellow_rs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+</p>
+
+<hr style="border: 1px solid #2980b9; width: 90%; margin: 30px auto;" />
+
+<h2 align="center">🧰 Tech Stack & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,figma,bootstrap,php,mysql,c" />
+</p>
+
+<hr style="border: 1px solid #2ecc71; width: 90%; margin: 30px auto;" />
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&theme=radical" alt="GitHub Streak" />
@@ -75,3 +73,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<hr style="border: 1px solid #e67e22; width: 90%; margin: 30px auto;" />
+
+<h4 align="center" style="font-size: 1.2rem; color: #7f8c8d;">
+  💬 “Design isn’t just what it looks like and feels like. Design is how it works.” – Steve Jobs
+</h4>
