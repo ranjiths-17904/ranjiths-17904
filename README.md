@@ -4,7 +4,7 @@
   Hi there 👋, I'm <span style="color:#00cec9;">Ranjith S</span>
 </h1>
 
-<h3 align="center" style="color: #a29bfe; font-size: 1.7rem;">
+<h3 align="center" style="color: #1111; font-size: 1.7rem;">
   💻 Frontend Developer · 🎨 UI/UX Designer · 🌱 Lifelong Learner
 </h3>
 
