@@ -1,7 +1,7 @@
 <!-- 🌟 Stunning GitHub Profile README by Ranjith 🌟 -->
 
 <h1 align="center" style="font-size: 3.5rem; color: #f9ca24;">
-  Hi there 👋, I'm <span style="color:#00cec9;">Ranjith S</span>
+  Hii there 👋, I'm <span style="color:#00cec9;">Ranjith S</span>
 </h1>
 
 <h3 align="center" style="color: #1111; font-size: 1.7rem;">
