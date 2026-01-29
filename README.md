@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="color: #1111; font-size: 1.7rem;">
-  💻 Frontend Developer · 🎨 UI/UX Designer · 🌱 Lifelong Learner
+  💻 FullStack Developer · 🎨 UI/UX Designer · 🌱 Lifelong Learner
 </h3>
 
 <p align="center">
@@ -84,15 +84,15 @@ I'm a creative and detail-focused **frontend developer** who enjoys transforming
 
 ---
 
-<h4 align="center" style="color: #636e72;">
-  ✨ “Good design is like a refrigerator — when it works, no one notices, but when it doesn't, it stinks.” – Irene Au
-</h4>
-
-
 ## 🧬 Contribution Graph Animation
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjiths-17904&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+<h4 align="center" style="color: #636e72;">
+  ✨ “Good design is like a refrigerator — when it works, no one notices, but when it doesn't, it stinks.” – Irene Au
+</h4>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0984e3,100:00cec9&height=90&section=footer" />
