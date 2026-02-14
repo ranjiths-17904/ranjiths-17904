@@ -42,7 +42,7 @@ I'm a creative and detail-focused **frontend developer** who enjoys transforming
 - ✅ Completed UI/UX Internship at ShadowFox
 - 🎓 Certified in "Mastering Figma UI/UX Design" (Guvi)
 - 👨‍💻 Java & Python Courses (Nativeva)
-- 🌐 Helped build **Kalam 2024 Departmental Website**
+- 💥 Completed 400+ leetcode problems
 
 ---
 
@@ -73,14 +73,17 @@ I'm a creative and detail-focused **frontend developer** who enjoys transforming
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjiths-17904&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 
 ---
 
