@@ -73,7 +73,7 @@ I'm a creative and detail-focused **frontend developer** who enjoys transforming
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ranjiths-17904&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -81,9 +81,8 @@ I'm a creative and detail-focused **frontend developer** who enjoys transforming
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ranjiths-17904&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
